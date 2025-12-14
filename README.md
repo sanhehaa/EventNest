@@ -421,24 +421,9 @@ Add all `.env` variables to Vercel dashboard under **Settings → Environment Va
 - [ ] **WhiteLabel Solution** - Let others deploy their own instance
 
 ---
-
-## 🤝 Contributing
-
-This project is open-source and welcomes contributions!
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open Pull Request
-
+ 
 ---
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
----
+ 
 
 ## 🙏 Acknowledgements
 
@@ -452,13 +437,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- **GitHub Issues**: [Report bugs](https://github.com/yourusername/eventnest/issues)
-- **Documentation**: [Full docs](https://docs.eventnest.app)
-- **Community**: [Discord](https://discord.gg/eventnest)
-
----
+ 
 
 ## 🎯 Key Takeaways
 
